@@ -1,0 +1,10 @@
+Commands / Filters Used
+
+Capture filter (capture only HTTP): tcp port 80
+
+Display filter (show HTTP): http
+
+Follow TCP stream (right-click → Follow → TCP Stream)
+
+Export HTTP objects: File → Export Objects → HTTP
+
